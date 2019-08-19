@@ -15,6 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 发送RabbitMq消息
  * @author wangshaoqi
  */
 @SpringBootApplication
